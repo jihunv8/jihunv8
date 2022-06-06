@@ -1,5 +1,10 @@
-<div align="center">
-<h3 align="center">주사용스택</h3>
+### 안녕하세요.
+
+신입 프론트엔드 개발자 입니다.
+
+<br/>
+
+### 주사용 스택
 
 ![React](https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-d99a26?style=flat-square&logo=JavaScript&logoColor=white)
@@ -15,4 +20,3 @@
 
 ### 공부중
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-</div>
